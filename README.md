@@ -25,10 +25,10 @@
   <a href="https://dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" /> </a>
   <a href="https://flutter.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" /> </a>
   <a href="https://isocpp.org" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" /> </a>
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=r" alt="r" /> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="java" /> </a>
   <a href="https://www.arduino.cc" target="_blank"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" /> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" /> </a>
-  <a href="https://www.linux.org" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" /> </a>
 </p>
 
 <p align="left">
