@@ -22,11 +22,12 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="python" /> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" /> </a>
   <a href="https://pytorch.org" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" /> </a>
+  <a href="https://dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" /> </a>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" /> </a>
   <a href="https://isocpp.org" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" /> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="java" /> </a>
   <a href="https://www.arduino.cc" target="_blank"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" /> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" /> </a>
-  <a href="https://www.oracle.com" target="_blank"> <img src="https://skillicons.dev/icons?i=oracle" alt="oracle" /> </a>
   <a href="https://www.linux.org" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" /> </a>
 </p>
 
