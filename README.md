@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazem</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Computer+Vision+Specialist" alt="Typing SVG" />
-</p>
+<h3 align="center">Data Scientist</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00B2FF&height=120&section=header" />
