@@ -1,14 +1,15 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Hazem;Data+Scientist;Computer+Vision+Expert" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Hazem</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Computer+Vision+Specialist" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00B2FF&height=150&section=header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00B2FF&height=120&section=header" />
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 **Currently focused on:** Advanced **Object Detection** architectures.
-- 🌱 **Deepening my expertise in:** Machine Learning, NLP, and Computer Vision.
+- 🔭 **Currently working on:** Advanced **Object Detection** projects.
+- 🌱 **Currently learning:** Machine Learning, NLP, and Computer Vision.
 - 📫 **How to reach me:** <a href="mailto:alalfihazem@gmail.com"><img src="https://img.shields.io/badge/Email-alalfihazem%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
 
 ### 🤝 Connect with Me
@@ -36,8 +37,4 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
