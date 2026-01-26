@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazem</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">Data Scientist!</h3>
 
 
 ### 👨‍💻 About Me
