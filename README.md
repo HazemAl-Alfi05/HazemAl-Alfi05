@@ -4,8 +4,8 @@
 
 ### 👨‍💻 About Me
 - 🔭 **Currently working on:** Advanced **object detection**
-- 🌱 **Currently learning:** Machine learning, NLP, and computer vision
-- 📫 **How to reach me:** <a href="mailto:alalfihazem@gmail.com">alalfihazem@gmail.com</a>
+- 🌱 **Deepening my expertise in:** Machine Learning, NLP, and Computer Vision.
+- 📫 **How to reach me:** <a href="mailto:alalfihazem@gmail.com"><img src="https://img.shields.io/badge/Email-alalfihazem%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
 
 ### 🤝 Connect with me:
 <p align="left">
