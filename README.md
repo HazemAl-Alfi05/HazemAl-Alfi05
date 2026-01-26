@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist!</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/100/external-learning-online-education-flat-juicy-fish.png" alt="Learning Icon" width="100" />
+  <img src="https://img.shields.io/badge/Focus-Continuous_Learning-success?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Learning Badge" />
 </p>
 
 ### 👨‍💻 About Me
