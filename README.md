@@ -2,7 +2,9 @@
 <h3 align="center">Data Scientist!</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00B2FF&height=120&section=header" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-data-science-big-data-flat-juicy-fish-4.png" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-intelligence-big-data-flat-juicy-fish.png" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-machine-learning-big-data-flat-juicy-fish.png" />
 </p>
 
 ### 👨‍💻 About Me
