@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hazem</h1>
 <h3 align="center">A passionate data scientist</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00B2FF&height=120&section=header" />
-</p>
 
 ### 👨‍💻 About Me
 - 🔭 **Currently working on:** Advanced **object detection**
