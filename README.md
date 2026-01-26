@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist!</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Continuous_Learning-success?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Learning Badge" />
+  <img src="https://img.shields.io/badge/Status-Learning_&_Studying-00B2FF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Learning Icon" />
 </p>
 
 ### 👨‍💻 About Me
