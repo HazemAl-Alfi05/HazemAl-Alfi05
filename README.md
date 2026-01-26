@@ -13,7 +13,7 @@
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/hazem-al-alfi" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hazem al alfi" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
 
@@ -28,13 +28,12 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="opencv" height="25" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" height="25" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit_learn" height="25" />
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=flat&logo=python&logoColor=white" alt="seaborn" height="25" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hazem-Alalfi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Alalfi&layout=compact&theme=tokyonight" />
 </p>
