@@ -6,7 +6,7 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 **Currently working on:** Advanced **Object Detection**
+- 🔭 **Currently working on:** **Machine Learning Projects**
 - 🌱 **Deepening my expertise in:** Machine Learning, NLP, and Computer Vision.
 - 📫 **How to reach me:** <a href="mailto:alalfihazem@gmail.com"><img src="https://img.shields.io/badge/Email-alalfihazem%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
 
