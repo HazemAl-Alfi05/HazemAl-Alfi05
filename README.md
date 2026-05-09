@@ -3,8 +3,9 @@
 # Hi 👋, I'm Hazem Al-Alfi
 
 ### Machine Learning Engineer 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-</div>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+     alt="Programmer Coffee GIF" 
+     width="300"/></div>
 
 ## 🚀 About Me
 
