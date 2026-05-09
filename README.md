@@ -117,6 +117,12 @@ Computer Vision modules and implementations including image processing, object d
 </tr>
 </table>
 
+<h2 align="center">📊 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazemAl-Alfi05&layout=compact&theme=tokyonight&border_radius=15" />
+</p>
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
