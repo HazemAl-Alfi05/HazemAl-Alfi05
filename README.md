@@ -35,7 +35,7 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
 
 <div align="left">
 
-- 🔭 Currently working on **VigilantFace Project**
+- 🔭 Currently working on **VigilantFace Project** under Ai in Security topic
 
 </div>
 
