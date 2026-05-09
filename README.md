@@ -31,6 +31,10 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
   </a>
 </div>
 
+<div align="center">
+![Visitor Count](https://komarev.com/ghpvc/?username=HazemAl-Alfi05&color=brightgreen&style=flat-square&label=Profile+Views)
+</div>
+
 ## 💼 Current Work
 
 <div align="left">
@@ -116,6 +120,5 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 
 **Thank you for visiting my profile! 😊**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=HazemAl-Alfi05&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
