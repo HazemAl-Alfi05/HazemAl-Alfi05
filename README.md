@@ -4,8 +4,9 @@
 
 ### Machine Learning Engineer 
 
-<img src="https://github.com/HazemAl-Alfi05.png" alt="Hazem Al-Alfi" width="150" height="150" style="border-radius: 50%;" />
-
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
+     alt="Coding GIF" 
+     width="250"/>
 </div>
 
 ## 🚀 About Me
