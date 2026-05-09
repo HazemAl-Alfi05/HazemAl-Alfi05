@@ -101,12 +101,14 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 
 </div>
 
-<h2 align="center">🚀 Featured Repository</h2>
+# 🚀 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/HazemAl-Alfi05/ComputerVision-Modules">
-    <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=HazemAl-Alfi05&repo=ComputerVision-Modules&theme=tokyonight&border_radius=15" />
-  </a>
+
+<a href="https://github.com/HazemAl-Alfi05/ComputerVision-Modules">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemAl-Alfi05&repo=YOUR_REPO_NAME&theme=tokyonight" />
+</a>
+
 </p>
 
 ## 📊 GitHub Stats & Activity
