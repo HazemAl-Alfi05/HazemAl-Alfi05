@@ -136,5 +136,5 @@ Computer Vision modules and implementations including image processing, object d
 
 **Thank you for visiting my profile! 😊**
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 </div>
