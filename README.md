@@ -11,6 +11,26 @@
 
 Data Science & Artificial Intelligence student with a passion for Machine Learning, Computer Vision, and AI Security. Experienced in building intelligent systems, participating in AI competitions, and developing research-oriented solutions using modern AI technologies.
 
+## 🌐 Connect with Me
+
+<div align="center">
+<a href="mailto:alalfihazem@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/HazemAl-Alfi05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/hazem-al-alfi-3475642b0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/hazem.alalfi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
 ## 💼 Current Work
 
 <div align="left">
@@ -46,25 +66,6 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 
 </div>
 
-## 🌐 Connect with Me
-
-<div align="center">
-<a href="mailto:alalfihazem@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/HazemAl-Alfi05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/hazem-al-alfi-3475642b0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/hazem.alalfi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
 
 ## 🛠️ Skills & Technologies
 
