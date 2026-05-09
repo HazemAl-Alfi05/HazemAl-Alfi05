@@ -32,7 +32,7 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
 </div>
 
 <div align="center">
-![Visitor Count](https://komarev.com/ghpvc/?username=HazemAl-Alfi05&color=brightgreen&style=flat-square&label=Profile+Views)
+  <img src="https://komarev.com/ghpvc/?username=HazemAl-Alfi05&color=brightgreen&style=for-the-badge&label=Profile+Views" />
 </div>
 
 ## 💼 Current Work
