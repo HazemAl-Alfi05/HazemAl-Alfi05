@@ -101,47 +101,19 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 
 </div>
 
-<h1 align="center">🚀 Featured Projects</h1>
+<h2 align="center">🚀 Featured Project</h2>
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
-  <a href="https://github.com/HazemAl-Alfi05/ComputerVision-Modules">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemAl-Alfi05&repo=ComputerVision-Modules&theme=tokyonight&border_radius=12" />
-  </a>
-</td>
+<a href="https://github.com/HazemAl-Alfi05/ComputerVision-Modules">
 
-<td width="50%">
-  <a href="https://github.com/HazemAl-Alfi05/YOUR_SECOND_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemAl-Alfi05&repo=YOUR_SECOND_REPO&theme=tokyonight&border_radius=12" />
-  </a>
-</td>
+╔══════════════════════════════════════╗  
+&nbsp;&nbsp;&nbsp;&nbsp;📂 ComputerVision-Modules  
+╚══════════════════════════════════════╝
 
-</tr>
+</a>
 
-<tr>
-
-<td width="50%">
-  <a href="https://github.com/HazemAl-Alfi05/YOUR_THIRD_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemAl-Alfi05&repo=YOUR_THIRD_REPO&theme=tokyonight&border_radius=12" />
-  </a>
-</td>
-
-<td width="50%">
-  <a href="https://github.com/HazemAl-Alfi05/YOUR_FOURTH_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemAl-Alfi05&repo=YOUR_FOURTH_REPO&theme=tokyonight&border_radius=12" />
-  </a>
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/HazemAl-Alfi05?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ## 📊 GitHub Stats & Activity
 
