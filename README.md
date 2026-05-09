@@ -4,8 +4,8 @@
 
 ### Machine Learning Engineer 
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" 
-     alt="Developer Studying" 
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+     alt="Programmer Coffee GIF" 
      width="300"/>
 </div>
 
