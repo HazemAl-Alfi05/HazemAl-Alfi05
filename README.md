@@ -103,17 +103,19 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 
 <h2 align="center">🚀 Featured Project</h2>
 
-<div align="center">
+<table>
+<tr>
+<td width="100%">
 
-<a href="https://github.com/HazemAl-Alfi05/ComputerVision-Modules">
+### 📂 [ComputerVision-Modules](https://github.com/HazemAl-Alfi05/ComputerVision-Modules)
 
-╔══════════════════════════════════════╗  
-&nbsp;&nbsp;&nbsp;&nbsp;📂 ComputerVision-Modules  
-╚══════════════════════════════════════╝
+Computer Vision modules and implementations including image processing, object detection, tracking, and AI-powered vision applications.
 
-</a>
+⭐ Featured repository showcasing Computer Vision and AI development projects.
 
-</div>
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats & Activity
 
