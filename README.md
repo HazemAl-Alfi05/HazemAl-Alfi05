@@ -32,7 +32,7 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
 
 | Institution | Degree | Duration |
 |---|---|---|
-| Applied Science Private University | Bachelor's  |  -  |
+| Applied Science Private University | Bachelor's  |  4 Years  |
 
 ### Bachelor's  in Data Science & Artificial Intelligence
 *Applied Science Private University*
@@ -59,8 +59,9 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HazemAl-Alfi05)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hazem Al Alfi)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hazem.alalfi)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HazemAl-Alfi05)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-al-alfi-3475642b0)&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hazem.alalfi)
 </div>
 
 ## 🛠️ Skills & Technologies
