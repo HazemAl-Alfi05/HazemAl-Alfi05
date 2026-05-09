@@ -62,14 +62,6 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
 
 Studying Data Science and Artificial Intelligence with hands-on experience in Machine Learning, Computer Vision, and AI-driven applications.
 
-## ⚡ Fun Fact
-
-<div align="center">
-
-*🎧 Music + Coding  = productivity mode*
-
-</div>
-
 
 ## 🛠️ Skills & Technologies
 
@@ -100,6 +92,24 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 ### 💻 Other
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+*🎧 Music + Coding  = Productivity mode*
+
+</div>
+
+# 🚀 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/HazemAl-Alfi05/ComputerVision-Modules">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemAl-Alfi05&repo=YOUR_REPO_NAME&theme=tokyonight" />
+</a>
+
+</p>
 
 ## 📊 GitHub Stats & Activity
 
