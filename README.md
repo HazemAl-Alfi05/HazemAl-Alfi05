@@ -106,7 +106,6 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 <table>
 <tr>
 <td width="100%">
-
 ### 📂 [ComputerVision-Modules](https://github.com/HazemAl-Alfi05/ComputerVision-Modules)
 
 Computer Vision modules and implementations including image processing, object detection, tracking, and AI-powered vision applications.
