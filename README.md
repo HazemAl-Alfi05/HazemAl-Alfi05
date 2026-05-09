@@ -15,7 +15,7 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
 
 <div align="left">
 
-- 🔭 I'm currently working on **VigilantFace**
+- 🔭 I'm currently working on **VigilantFace Project**
 
 </div>
 
