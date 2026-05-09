@@ -4,9 +4,9 @@
 
 ### Machine Learning Engineer 
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
-     alt="Coding GIF" 
-     width="250"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" 
+     alt="Developer Studying" 
+     width="300"/>
 </div>
 
 ## 🚀 About Me
