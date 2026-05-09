@@ -97,11 +97,8 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=HazemAl-Alfi05&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HazemAl-Alfi05&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazemAl-Alfi05&layout=compact&theme=radical&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HazemAl-Alfi05&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
@@ -115,6 +112,6 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=HazemAl-Alfi05&color=brightgreen&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=HazemAl-Alfi05&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
