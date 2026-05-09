@@ -101,7 +101,7 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 
 </div>
 
-<h2 align="center">🚀 Featured Repositories</h2>
+<h2 align="left">🚀 Featured Repositories</h2>
 
 <table>
 <tr>
