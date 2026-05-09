@@ -43,7 +43,7 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
 
 <div align="left">
 
-- 🛡️ Currently researching adversarial AI and secure face recognition systems
+- 🛡️ Learning on adversarial AI and secure face recognition systems
 
 </div>
 
