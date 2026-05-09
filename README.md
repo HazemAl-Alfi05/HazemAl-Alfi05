@@ -3,7 +3,7 @@
 # Hi 👋, I'm Hazem Al-Alfi
 
 ### Machine Learning Engineer 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
 </div>
 
 ## 🚀 About Me
