@@ -124,7 +124,7 @@ Computer Vision modules and implementations including image processing, object d
 
 <div align="center">
 
-
+## Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HazemAl-Alfi05&theme=github-compact"/>
 </p>
