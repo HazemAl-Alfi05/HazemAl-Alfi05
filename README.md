@@ -62,7 +62,12 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
 
 Studying Data Science and Artificial Intelligence with hands-on experience in Machine Learning, Computer Vision, and AI-driven applications.
 
+## 🏆 Certifications
 
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Power BI Data Analyst Associate
+- Supervised Machine Learning with Scikit-Learn
+- 
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
