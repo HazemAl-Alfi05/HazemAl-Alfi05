@@ -126,7 +126,7 @@ Computer Vision modules and implementations including image processing, object d
 
 ## Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HazemAl-Alfi05&theme=github-compact"/>
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </p>
 
 
