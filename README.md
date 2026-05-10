@@ -122,7 +122,7 @@ Computer Vision modules and implementations including image processing, object d
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
+<div align="left">
 
 ## Activity Graph
 <p align="center">
