@@ -59,6 +59,12 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Power BI Data Analyst Associate
 - Supervised Machine Learning with Scikit-Learn
+
+# 🥇 Achievements
+
+- 1st Place — Computer Vision Competition
+- 1st Place — Machine Learning Competition
+- 2nd Place — Machine Learning Competition V2
   
 ## 🛠️ Skills & Technologies
 
