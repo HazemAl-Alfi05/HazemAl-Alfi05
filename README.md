@@ -35,13 +35,12 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
   <img src="https://komarev.com/ghpvc/?username=HazemAl-Alfi05&color=brightgreen&style=for-the-badge&label=Profile+Views" />
 </div>
 
-## 💼 Current Work
+# ⚔️ Current Focus
 
-<div align="left">
-
-- 🔭 Currently working on **VigilantFace Project** under Ai in Security topic
-
-</div>
+- Adversarial AI
+- Secure Face Recognition
+- Computer Vision
+- Explainable AI
 
 ## 📚 Learning & Knowledge
 
@@ -67,7 +66,7 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Power BI Data Analyst Associate
 - Supervised Machine Learning with Scikit-Learn
-- 
+  
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
