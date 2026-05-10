@@ -126,9 +126,8 @@ Computer Vision modules and implementations including image processing, object d
 
 ## Activity Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HazemAl-Alfi05&theme=tokyonight">
 </p>
-
 
 ## Github Status 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HazemAl-Alfi05&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
