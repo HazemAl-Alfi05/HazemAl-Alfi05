@@ -122,6 +122,10 @@ Computer Vision modules and implementations including image processing, object d
 <div align="center">
 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HazemAl-Alfi05&theme=github-compact"/>
+</p>
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HazemAl-Alfi05&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
@@ -136,5 +140,4 @@ Computer Vision modules and implementations including image processing, object d
 
 **Thank you for visiting my profile! 😊**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 </div>
