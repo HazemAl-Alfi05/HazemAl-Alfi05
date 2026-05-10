@@ -45,13 +45,6 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
 
 ## 🎓 Education
 
-| Institution | Degree | Duration |
-|---|---|---|
-| Applied Science Private University | Bachelor's  |  4 Years  |
-
-### Bachelor's  in Data Science & Artificial Intelligence
-*Applied Science Private University*
-
 Studying Data Science and Artificial Intelligence with hands-on experience in Machine Learning, Computer Vision, and AI-driven applications.
 
 ## 🏆 Certifications
