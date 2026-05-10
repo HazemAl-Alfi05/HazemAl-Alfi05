@@ -1,3 +1,4 @@
+<div align="center">
 # Hi 👋, I'm Hazem Al-Alfi
 
 <div align="center">
