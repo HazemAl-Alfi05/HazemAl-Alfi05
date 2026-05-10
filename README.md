@@ -1,10 +1,10 @@
+# Hi 👋, I'm Hazem Al-Alfi
+
 <div align="center">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI+Student;Machine+Learning+Developer;Computer+Vision+Enthusiast;AI+Security+Researcher"/>
 </p>
-# Hi 👋, I'm Hazem Al-Alfi
-
-### Machine Learning Engineer 
+     
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
      alt="Programmer Coffee GIF" 
      width="400"/></div>
