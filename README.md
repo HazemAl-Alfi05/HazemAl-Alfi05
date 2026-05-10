@@ -136,5 +136,7 @@ Computer Vision modules and implementations including image processing, object d
 
 **Thank you for visiting my profile! 😊**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=140&section=footer"/>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
+</p>
 </div>
