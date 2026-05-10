@@ -68,7 +68,7 @@ Studying Data Science and Artificial Intelligence with hands-on experience in Ma
   
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
