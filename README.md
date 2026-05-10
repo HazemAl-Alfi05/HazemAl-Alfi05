@@ -126,7 +126,7 @@ Computer Vision modules and implementations including image processing, object d
 
 ## Activity Graph
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HazemAl-Alfi05&theme=tokyonight">
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
 </p>
 
 ## Github Status 
