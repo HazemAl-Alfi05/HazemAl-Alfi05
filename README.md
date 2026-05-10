@@ -35,7 +35,7 @@ Data Science & Artificial Intelligence student with a passion for Machine Learni
   <img src="https://komarev.com/ghpvc/?username=HazemAl-Alfi05&color=brightgreen&style=for-the-badge&label=Profile+Views" />
 </div>
 
-# ⚔️ Current Focus
+## ⚔️ Current Focus
 
 - Adversarial AI
 - Secure Face Recognition
